@@ -2,5 +2,3 @@
 #adassadas
 
 print("hello")
-#asdhasd 
-#adassadas
