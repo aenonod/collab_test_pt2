@@ -1,4 +1,0 @@
-#asdhasd 
-#adassadas
-
-print("hello")
